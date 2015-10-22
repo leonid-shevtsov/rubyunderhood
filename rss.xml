@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[rubyunderhood]]></title>
+        <description><![CDATA[Коллективный твиттер-аккаунт для руби-разработчиков с новым автором каждую неделю]]></description>
+        <link>https://rubyunderhood.ru/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 22 Oct 2015 19:29:20 GMT</lastBuildDate>
+        <atom:link href="https://rubyunderhood.ru/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[MIT]]></copyright>
+        <language><![CDATA[en-us]]></language>
+        <managingEditor><![CDATA[iamstarkov@gmail.com (Vladimir Starkov)]]></managingEditor>
+        <webMaster><![CDATA[iamstarkov@gmail.com (Vladimir Starkov)]]></webMaster>
+        <category><![CDATA[frontend]]></category>
+        <category><![CDATA[css]]></category>
+        <category><![CDATA[twitter]]></category>
+        <item>
+            <title><![CDATA[kirshatrov]]></title>
+            <description><![CDATA[Всем привет. С небольшой задержкой, с вами на этой неделе @kirshatrov]]></description>
+            <link>https://rubyunderhood.ru/kirshatrov/</link>
+            <guid isPermaLink="true">https://rubyunderhood.ru/kirshatrov/</guid>
+            <pubDate>Mon, 12 Oct 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ptico]]></title>
+            <description><![CDATA[Всем привет, на этой неделе с вами @ptico. Живу в Киеве, работаю техдиром в Aejis, ем стейки и пью тёмное пиво.]]></description>
+            <link>https://rubyunderhood.ru/ptico/</link>
+            <guid isPermaLink="true">https://rubyunderhood.ru/ptico/</guid>
+            <pubDate>Mon, 05 Oct 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[inem]]></title>
+            <description><![CDATA[Привет. Эту неделю с вами @inem, он же @inemation, он же пока единственный автор @RailsHurts. На руби пишу с 2006. (1/3)]]></description>
+            <link>https://rubyunderhood.ru/inem/</link>
+            <guid isPermaLink="true">https://rubyunderhood.ru/inem/</guid>
+            <pubDate>Mon, 28 Sep 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[aderyabin]]></title>
+            <description><![CDATA[Я – Дерябин Андрей и я принял пост.]]></description>
+            <link>https://rubyunderhood.ru/aderyabin/</link>
+            <guid isPermaLink="true">https://rubyunderhood.ru/aderyabin/</guid>
+            <pubDate>Sun, 20 Sep 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[kirillgorin]]></title>
+            <description><![CDATA[1/3 Всем доброго дня! Я Кирилл Горин, сейчас full stack разработчик на удаленке, раньше делал видео бекенд в Coub.]]></description>
+            <link>https://rubyunderhood.ru/kirillgorin/</link>
+            <guid isPermaLink="true">https://rubyunderhood.ru/kirillgorin/</guid>
+            <pubDate>Mon, 14 Sep 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fodoj]]></title>
+            <description><![CDATA[Йу! Я Кирилл Ширинкин, сертифицированный архитектор, девопс инженер, backend разработчик, технический и не технический автор и ментор.]]></description>
+            <link>https://rubyunderhood.ru/fodoj/</link>
+            <guid isPermaLink="true">https://rubyunderhood.ru/fodoj/</guid>
+            <pubDate>Mon, 07 Sep 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[zzetorg]]></title>
+            <description><![CDATA[Привет всем.
+Сегодня, и в течении ближайшей неделе, в вашу ленту будут просачиваться твиты от @zzetorg. Меня зовут Андрей aka zzet.]]></description>
+            <link>https://rubyunderhood.ru/zzetorg/</link>
+            <guid isPermaLink="true">https://rubyunderhood.ru/zzetorg/</guid>
+            <pubDate>Mon, 31 Aug 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[gaar4ica]]></title>
+            <description><![CDATA[Доброго утра :) На этой неделе с вами @gaar4ica, лид веб разработки в @Artec3DScanners]]></description>
+            <link>https://rubyunderhood.ru/gaar4ica/</link>
+            <guid isPermaLink="true">https://rubyunderhood.ru/gaar4ica/</guid>
+            <pubDate>Mon, 24 Aug 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[shiroginne]]></title>
+            <description><![CDATA[ur ruby is over.]]></description>
+            <link>https://rubyunderhood.ru/shiroginne/</link>
+            <guid isPermaLink="true">https://rubyunderhood.ru/shiroginne/</guid>
+            <pubDate>Mon, 17 Aug 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mogilnikov]]></title>
+            <description><![CDATA[Привет! На этой неделе в эфире @mogilnikov. Занимаюсь разработкой давно. В последнее время рулю облаками и программистами в @Artec3DScanners]]></description>
+            <link>https://rubyunderhood.ru/mogilnikov/</link>
+            <guid isPermaLink="true">https://rubyunderhood.ru/mogilnikov/</guid>
+            <pubDate>Mon, 10 Aug 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[vazilla]]></title>
+            <description><![CDATA[Привет! На этой неделе @rubyunderhood веду я, @vazilla. Будем говорить о рельсовом фронтенде, Assets Pipeline и пользе]]></description>
+            <link>https://rubyunderhood.ru/vazilla/</link>
+            <guid isPermaLink="true">https://rubyunderhood.ru/vazilla/</guid>
+            <pubDate>Mon, 03 Aug 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[g3d]]></title>
+            <description><![CDATA[Всем привет. Я Богдан, мне 22 и последние три года я работаю с ruby в офисе. Перед этим был freelance, при чем не только связанный с ruby.]]></description>
+            <link>https://rubyunderhood.ru/g3d/</link>
+            <guid isPermaLink="true">https://rubyunderhood.ru/g3d/</guid>
+            <pubDate>Mon, 27 Jul 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[rainrb]]></title>
+            <description><![CDATA[Привет, неожиданно для себя оказался underhood:) Зовут меня Саша, программирую на чем придется, последние годы преимущественно на ruby.]]></description>
+            <link>https://rubyunderhood.ru/rainrb/</link>
+            <guid isPermaLink="true">https://rubyunderhood.ru/rainrb/</guid>
+            <pubDate>Mon, 20 Jul 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[artemeff]]></title>
+            <description><![CDATA[Здравствуйте! Меня зовут Юра, мне 21 год и я пишу на Ruby]]></description>
+            <link>https://rubyunderhood.ru/artemeff/</link>
+            <guid isPermaLink="true">https://rubyunderhood.ru/artemeff/</guid>
+            <pubDate>Mon, 13 Jul 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[suxxes]]></title>
+            <description><![CDATA[Привет, я — Федор. С Ruby я год, и вообще по должности я Chief of UI/UX, но по контракту я full-stack, так что приходится и Ruby.]]></description>
+            <link>https://rubyunderhood.ru/suxxes/</link>
+            <guid isPermaLink="true">https://rubyunderhood.ru/suxxes/</guid>
+            <pubDate>Mon, 06 Jul 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[anton_davydov]]></title>
+            <description><![CDATA[Всем привет, первую неделю проведу я, @anton_davydov. Пишу на руби, люблю опенсорс, иногда строю ракеты. Привет!]]></description>
+            <link>https://rubyunderhood.ru/anton_davydov/</link>
+            <guid isPermaLink="true">https://rubyunderhood.ru/anton_davydov/</guid>
+            <pubDate>Mon, 29 Jun 2015 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
